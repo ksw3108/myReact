@@ -1,0 +1,7 @@
+yarn add @loadable/component 
+yarn add axios 
+yarn add classnames 
+yarn add react-redux redux-actions redux-devtools-extension redux-devtools-extension redux-logger
+yarn add react-dom react-router-dom
+yarn add react-scripts
+yarn add include-media open-color react-icons sass styled-components styled-reset
